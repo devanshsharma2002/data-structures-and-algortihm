@@ -1,0 +1,43 @@
+#data structure 
+data structure is a particular way of organising data ina computers memeory 
+so that it can be used effectively by program code
+
+#algorithms
+a process or set of rules to be followed in calculations or other problemsolving operaitonss
+especially by computers
+->purpose
+->solution
+->program
+
+properties:
+->INPUT(OPTIONAL- EG. LIKE A PRINT function)
+->OUTPUT
+->DEFITENESS
+->FINITENESS
+
+#pseudoCODE
+pseudocode is a plain language code describing steps in an algorithm
+it is human readable rather than machine
+no broad standard for pseudocode exists
+ 
+ pseudoCODE:
+ take 2 nums
+ c<-a+b
+ print c
+
+ source code:
+ input(a)
+ input(b)
+ print (a+b)
+DO NOT INSERT ANY PROGRAMMING CONCEPT IN THIS
+example: 
+FIND MAX NUM IN 2 nums MAX(a,b)
+1.input int A
+2.input int B
+3.compare a>B
+if true max =a , else B
+
+#flowchart
+a flowchart is diammetric representation of an algorithm
+it is human readable instead of machine readable
+

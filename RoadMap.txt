@@ -1,0 +1,26 @@
+#1
+pick any language as long as logic is fine
+#2
+language synatx , loops , functions ,pseudo code, oops
+#3
+what is dsa
+#4
+basic dsa: arrays , ll , stack , queues, hashtable
+#5
+time space complexity 
+#6
+sorting: bubble , merge , heap ,insertion , quick ,quick 
+w3schools
+#7
+searching: linear and binary
+#8
+tree:bfs dfs
+#9
+graph:
+#10
+problem solving techniquies: recusrion first
+
+how much dsa?
+understand algorithms nicely
+do only 10 questions each to understand pattern
+limit? pick a sheet and do it 

@@ -1,0 +1,42 @@
+#datastrucutere & algorithm
+data in orgranised way-> ds
+structured data -> worked upon -> algortithm
+
+#importance
+->to build effiecent program
+->easy to write programs
+->executtion speed increase
+->reusablity
+->improve abstraction
+->solve real world problems
+
+#ds
+logical or math model of organisation of data is called ds
+
+#db vs ds
+both organise data but ds organise in ram db organise in permanent storage
+ds is used while program is activly running
+
+#classification
+->PRIMITIVE:
+numerical : integer , real(float,double), complex 
+char :
+bool :
+pointer :
+NULL :
+
+->NON PRIMITIVE:
+arrays
+linked list
+stack
+queues
+tree
+graph
+map/associative array/hashtable/dictionary
+multimap
+bag
+file
+set
+tuple
+list
+
