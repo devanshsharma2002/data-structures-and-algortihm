@@ -1,0 +1,35 @@
+#time - techniques
+->measure time( import time - start time - end time)
+problem is different time different hardware , small input dont work,diffent input different time
+->count operations(count number of operations)
+solved hardware problem and different input diffent time 
+what operation to use problems
+
+->absract order of growth
+we want to evaluate programs efficiency when input is very big 
+want to express growth of programs runtime as input size grows 
+we want upper bound of time as tight as possible
+
+suppose we are searching for element in an array 
+best case - found at index 0
+worst case - found at last
+average case - found at middle
+
+questions:
+n2 + 2n + 2-> n2
+n2+100000+3^10000-> n2
+logn + n +2 -> n
+nlogn +300n -> nlogn
+2n^30 = 3^n->3^n
+
+types of order of growth:
+-> constant
+-> linear
+-> quadratic
+-> lograthmic
+-> nlogn
+-> exponential 
+
+best : c > lograthmic > linear > nlogn > n^2 > 2^n
+
+
