@@ -24,12 +24,17 @@ nlogn +300n -> nlogn
 
 types of order of growth:
 -> constant
--> linear
+-> linear -linear search
 -> quadratic
--> lograthmic
+-> lograthmic - binary search
 -> nlogn
 -> exponential 
 
 best : c > lograthmic > linear > nlogn > n^2 > 2^n
+
+input multiplies , output adds-> log
+eg 123 ->3 , 1230-> 6,12300->9 (x10 +3)
+
+
 
 

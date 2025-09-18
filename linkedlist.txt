@@ -1,0 +1,50 @@
+#linked list
+linear data structure 
+replacement for arrays in many cases
+collection of nodes- address + data
+nodes are not in contigous memeory locartion
+ 
+ head->n1->n2->...........->tail
+
+#making a node
+ class node:
+ def _init_(self,data):
+    node.data=data
+    node.next=None
+
+#types
+singly: n1->n2->n3->NULL
+circular: n1-> n2-> n3 -> n4-> n1
+DOUBLY LL: null<-n1->n2<-->n3<-->null
+DOUBLY CIRCULAR LL: DOUBLY LL + CIRCULAR
+
+#why to use LL-> WHERE WRITE operations ARE IMPORTANT O(1), READ OPERATIONS BAD O(n)
+deletion and addition is constant time
+non contigous memory loaction
+eg TODO LIST
+
+#why to use array-> WHERE READ operations ARE IMPORTANT O(1), WRITE operations BAD O(n)
+read operations are faaaast
+contigous memory loaction
+
+# OPERATIONS
+->INSERT
+head
+tail 
+middle
+
+->TRAVERSE
+print
+
+->DELETE
+head
+tail
+by value
+by index
+
+->SEARCH
+value
+index
+
+
+

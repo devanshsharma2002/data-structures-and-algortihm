@@ -40,3 +40,5 @@ set
 tuple
 list
 
+linear-> stack queues linkedlist array hashing
+non linear-> tree graph

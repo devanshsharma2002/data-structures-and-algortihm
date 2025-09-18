@@ -1,0 +1,22 @@
+#arrays
+linear ds used to store multiple data of same type in contigous memeory locartion
+
+1.normal array-> it has data of same type stored as it is java , c 
+disadvantage-> homogenous
+2.referential array-> it stored memeory address instead of data python 
+disadvantage-> extra memeory, speed slower
+3.dynamic array-> adjusts according to data , no fixed size
+creates array of double size when previous array gets full and copies data of previous array 
+to the new array 
+pythons lists are dynamic array
+
+to prove python lists are dynamic array :
+import sys
+l=[]
+sys.getsizeof(L)
+L.append('k')
+sys.getsizeof(L)
+repeat this
+
+PYTHON DOES +8 INSTEAD OF DOUBLING AS DISCUSSED PREVIOUSLY
+
