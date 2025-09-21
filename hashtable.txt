@@ -1,0 +1,7 @@
+#dictionary is a hash table
+
+#empty dictionary
+d={}
+
+1d dictionary-> d2= {'name':'devansh','gender':'male'}
+#mutable keys not allowed as it is unhashable as the value can change : list cannot be used as key but tuple can 
