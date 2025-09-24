@@ -70,10 +70,10 @@ for char in a1:
 print(dic)
 i=0
 for lor in dic:
-    if dic[lor]==2:
+    if dic[lor]==1:
         print(lor)
-    
-
+cas=3
+print(a1.is)
 
 
 
